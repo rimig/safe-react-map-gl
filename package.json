@@ -4,9 +4,19 @@
   "description": "Wrapper for React Map GL that loads in an iFrame",
   "main": "index.js",
   "repository": "git@github.com:rimig/safe-react-map-gl.git",
+  "scripts": {
+    "test": "echo 'no tests'"
+  },
   "author": "Robert Imig",
   "license": "MIT",
   "dependencies": {
+    "@types/react": "^16.0.0",
+    "react": "^15.6.1",
     "react-map-gl": "^3.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.1",
+    "typescript": "^2.4.2"
   }
 }
