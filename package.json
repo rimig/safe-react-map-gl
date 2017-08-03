@@ -1,0 +1,12 @@
+{
+  "name": "safe-react-map-gl",
+  "version": "1.0.0",
+  "description": "Wrapper for React Map GL that loads in an iFrame",
+  "main": "index.js",
+  "repository": "git@github.com:rimig/safe-react-map-gl.git",
+  "author": "Robert Imig",
+  "license": "MIT",
+  "dependencies": {
+    "react-map-gl": "^3.0.3"
+  }
+}
